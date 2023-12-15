@@ -1,2 +1,2 @@
-# web-css-demo
+# web-effects-demo
 web特效合集
